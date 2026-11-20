@@ -1,0 +1,7 @@
+{
+  "model": "GNN",
+  "learning_rate": 0.01,
+  "best_epoch": 8,
+  "val_accuracy": 0.7940000295639038,
+  "test_accuracy": 0.7990000247955322
+}
