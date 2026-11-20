@@ -1,1 +1,1 @@
-# gnn-learning-cora
+# Learning GNNs with Cora
